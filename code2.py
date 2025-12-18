@@ -1,2 +1,4 @@
-print("Library management system")
-print("Version 1.0 initialized")
+
+print("Tracking Daily Code Changes")
+a="deleiverd"
+print(a)
